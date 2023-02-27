@@ -1,0 +1,114 @@
+E.coli Miniprep
+================
+
+- <a href="#e.coli-miniprep-e.coli-plasmid-mini-purification"
+  id="toc-e.coli-miniprep-e.coli-plasmid-mini-purification">E.coli
+  Miniprep: E.coli Plasmid Mini Purification</a>
+  - <a href="#목적" id="toc-목적">목적</a>
+  - <a href="#이론적-배경" id="toc-이론적-배경">이론적 배경</a>
+    - <a href="#e.coli와-plasmid" id="toc-e.coli와-plasmid">E.coli와
+      plasmid</a>
+    - <a href="#buffers" id="toc-buffers">Buffers</a>
+    - <a href="#a260a280" id="toc-a260a280">A260/A280</a>
+  - <a href="#miniprep의-방법" id="toc-miniprep의-방법">miniprep의 방법</a>
+    - <a href="#cell-pellet" id="toc-cell-pellet">1. Cell pellet</a>
+    - <a href="#lysis" id="toc-lysis">2. Lysis</a>
+    - <a href="#dna-bind" id="toc-dna-bind">3. DNA bind</a>
+    - <a href="#wash" id="toc-wash">4. Wash</a>
+    - <a href="#elution" id="toc-elution">5. Elution</a>
+    - <a href="#plasmid-순도-확인" id="toc-plasmid-순도-확인">6. Plasmid 순도
+      확인</a>
+    - <a href="#참고사항" id="toc-참고사항">참고사항</a>
+
+# E.coli Miniprep: E.coli Plasmid Mini Purification
+
+## 목적
+
+형질전환 된 대장균으로부터 플라스미드 DNA를 얻는 것
+
+## 이론적 배경
+
+### E.coli와 plasmid
+
+원핵생물은 진핵생물과 달리 세포벽이 존재한다. 세포벽은 원핵생물이 가지는
+외부 방어기제로 작용한다. 원핵생물은 세포막이 없다. 그러므로 핵막과 핵도
+존재하지 않는다. 원핵생물의 유전체가 뭉쳐있는 구역을 ’핵양체’라고
+한다.  
+
+원핵생물은 환형의 염색체 외에도 작은 원형의 DNA인 plasmid를 가지고있다.
+plasmid는 독립적으로 존재하며 빠른 복제가 가능하다. 빠른 복제의 장점으로
+plasmid는 transformation의 vector로 용이하게 이용된다.
+
+### Buffers
+
+- S1 buffer: Resuspension buffer
+
+원심분리로 응축된 대장균 pellet을 풀어준다.
+
+- S2 buffer: Lysis buffer
+
+대장균의 세포벽과 세포막을 파괴하고 핵산을 용해한다.
+
+- S3 buffer: Neutralization buffer  
+  gDNA와 plasmid DNA 분리한다.
+
+- PW  
+  EtOH 70-80% 함유  
+  DNA 외의 시약과 salt를 씻어낸다.
+
+- EB buffer  
+  DNA 회수에 사용되는 buffer
+
+### A260/A280
+
+핵산이 흡수하는 최고 파장점은 260nm이다. 그리고 단백질이 흡수하는 최고
+파장은 280nm이다. 정제된 plasmid에서 230-280nm대의 파장을 조사한 뒤,
+A260/A280의 비율을 조사한다. 1.8 \~ 2.0의 비를 가질 때, 순수한 DNA가
+정제되었다고 판단할 수 있다.
+
+## miniprep의 방법
+
+### 1. Cell pellet
+
+1)  tranformation cell을 배양한다.  
+2)  원심분리로 배양액과 대장균을 분리한다.  
+3)  배양액은 버리고 대장균만 사용한다.
+
+### 2. Lysis
+
+1)  S1 buffer 250µl를 넣고 resuspend한다.  
+2)  S2 buffer 250µl를 추가하고 invert한다.  
+3)  1-5분 incubation 한다.  
+4)  S3 buffer 350µl를 추가하고 invert 한다.
+
+### 3. DNA bind
+
+1)  13000rpm으로 10분동안 원심분리 한다.  
+2)  상층액만 분리하여 spin column에 옮기고, debris는 버린다.  
+    tip. 용액이 대략 850µl 이므로 피펫을 800µl으로 용량을 맞추어 옮기면
+    된다.
+
+### 4. Wash
+
+1)  PW buffer 750µl로 DNA 외의 잔여물을 씻는다.  
+2)  1분동안 원심분리하여 남은 유기용매들을 제거한다.  
+    tip. 유기용매 제거시, dry oven에 1분 미만으로 넣어두는 것도 좋다.
+
+### 5. Elution
+
+1)  column을 1.5ml 튜브로 옮긴다.  
+2)  EB buffer 또는 D.W 50µl을 추가한다.  
+3)  1분동안 incubate 후, 1분동안 원심분리 한다.  
+
+### 6. Plasmid 순도 확인
+
+1)  A260/A280의 비율을 확인한다.
+
+### 참고사항
+
+1)  Plasmid yield를 높이기 위해서 2개 이상의 pellet을 사용할 수 있다.  
+    사용하는 column이 몇kb까지의 DNA 용량과 보유하고 있는 pellet의 DNA
+    양을 고려하여 진행할 수 있다.
+2)  incubate 시간과 원심분리 시간을 활용하여 다음 단계를 준비할 수
+    있다.  
+    남는 시간을 활용하여 더 정확하고 신속한 실험을 진행할 수 있다.
